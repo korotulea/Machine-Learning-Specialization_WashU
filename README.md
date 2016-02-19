@@ -1,5 +1,5 @@
 # Machine-Learning-Specialization_WashU
-<h1>Build Intelligent Applications: Machine Learning Specialization
+<h1>Build Intelligent Applications: Machine Learning Specialization</h1>
 <p> School: Universtiy of Washington
 <p> Industry partner: Dato
 
