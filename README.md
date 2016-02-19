@@ -1,6 +1,16 @@
-# Machine-Learning-Specialization_WashU
 <h1>Build Intelligent Applications: Machine Learning Specialization</h1>
-<p> School: Universtiy of Washington
+<p> School: Universtiy of Washington through Coursera
 <p> Industry partner: Dato
 
-This Specialization design to master machine learning fundamentals in five hands-on courses.
+<p>This Specialization design to master machine learning fundamentals in five hands-on courses adn a Capstone project. Students learn to analyze large and complex datasets, build applications that can make predictions from data, and create systems that adapt and improve over time. In the final Capstone Project, students will apply their skills to solve an original, real-world problem through implementation of machine learning algorithms.</p>
+
+<p>Machine Learning Specialization courser:
+<ol>
+<li>Machine Learning Foundations: A Case Study Approach</li>
+<li>Machine Learning: Regression</li>
+<li>Machine Learning: Classification</li>
+<li>Machine Learning: Clustering & Retrieval</li>
+<li>Machine Learning: Recommender Systems & Dimensionality Reduction</li>
+<li>Machine Learning Capstone: An Intelligent Application with Deep Learning</li>
+<ol>
+</p>
