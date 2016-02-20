@@ -4,10 +4,12 @@
 
 <p>This Specialization design to master machine learning fundamentals in five hands-on courses adn a Capstone project. Students learn to analyze large and complex datasets, build applications that can make predictions from data, and create systems that adapt and improve over time. In the final Capstone Project, students will apply their skills to solve an original, real-world problem through implementation of machine learning algorithms.</p>
 
-<p>Machine Learning Specialization courser:
+<p>Machine Learning Specialization courses:
 <ol>
-<li>Machine Learning Foundations: A Case Study Approach</li>
-<li>Machine Learning: Regression</li>
+<li>Machine Learning Foundations: A Case Study Approach 
+<br>Certificate: https://www.coursera.org/account/accomplishments/certificate/3TY5KKP2P4Y4</li>
+<li>Machine Learning: Regression 
+<br>Certificate: https://www.coursera.org/account/accomplishments/certificate/VCAR7SFGY5AB</li>
 <li>Machine Learning: Classification</li>
 <li>Machine Learning: Clustering & Retrieval</li>
 <li>Machine Learning: Recommender Systems & Dimensionality Reduction</li>
