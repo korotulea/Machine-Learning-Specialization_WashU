@@ -1,5 +1,6 @@
 <h1>Build Intelligent Applications: Machine Learning Specialization</h1>
 <p>School: Universtiy of Washington through Coursera
+<p>Instructors: Carlos Guestrin, Emily Fox
 <p>Industry partner: Dato
 
 <p>This Specialization design to master machine learning fundamentals in five hands-on courses adn a Capstone project. Students learn to analyze large and complex datasets, build applications that can make predictions from data, and create systems that adapt and improve over time. In the final Capstone Project, students will apply their skills to solve an original, real-world problem through implementation of machine learning algorithms.</p>
